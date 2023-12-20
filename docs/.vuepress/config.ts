@@ -4,5 +4,4 @@ export default defineUserConfig({
   lang: 'zh-CN',
   title: '你好， VuePress ！',
   description: '这是第一个 VuePress 站点',
-  base: '/',
 })
